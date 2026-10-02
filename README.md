@@ -2,8 +2,7 @@
 
 An interactive sales dashboard built on a MySQL database. A Node API runs `GROUP BY` queries on 9,994 retail orders, and a React app draws the results with D3. Click a region or category to filter every other chart.
 
-![Dashboard](screenshots/png1.png)
-![Dashboard](screenshots/png2.png)
+
 
 ## Key findings
 
